@@ -44,10 +44,12 @@ Learning Day : 043 || 12-Apr-22: || (Topic:  || Status: )
 Learning Day : 044 || 13-Apr-22: || (Topic:  || Status: )  
 Learning Day : 045 || 14-Apr-22: || (Topic:  || Status: )  
 Learning Day : 046 || 15-Apr-22: || (Topic:  || Status: )  
-###############CHECK################
 Learning Day : 047 || 16-Apr-22: || (Topic:  || Status: )  
 Learning Day : 048 || 17-Apr-22: || (Topic:  || Status: )  
 Learning Day : 049 || 18-Apr-22: || (Topic:  || Status: )  
+
+###############CHECK################
+
 Learning Day : 050 || 19-Apr-22: || (Topic:  || Status: )  
 Learning Day : 051 || 20-Apr-22: || (Topic:  || Status: )  
 Learning Day : 052 || 21-Apr-22: || (Topic:  || Status: )  
